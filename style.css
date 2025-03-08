@@ -10,6 +10,7 @@ body {
     margin-left:10%;
     animation:SlideIn 4s;
     margin-right:10%;
+    font-size:50px;
 }
 @keyframes SlideIn{
     0%{
@@ -34,7 +35,7 @@ body {
 
 .photo_container img{
     width:80%;
-    margin-top:10%;
+    margin-top:20%;
     margin-left:10%;
 }
 
@@ -43,15 +44,18 @@ body {
     margin-left:10%;
     font-weight:lighter;
     color:#666666
+    margin-right:10%;
 }
 .photo_container h2{
     margin-left:10%;
     font-weight: bold;
     color:#333333
+    margin-right:10%;
 }
 .photo_container p{
     margin-left:10%;
     color:#333333
+    margin-right:10%;
 }
 #last{
     margin-bottom:20%;
