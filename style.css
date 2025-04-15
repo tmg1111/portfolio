@@ -57,6 +57,20 @@ body {
     margin-left:10%;
     color:#333333
 }
+
+
+iframe{
+    display:block;
+    margin:0 auto;
+    width:79vw;
+    height:50vw;
+    margin-top:20%;
+}
+
 #last{
     margin-bottom:20%;
+}
+
+.main{
+    margin-bottom:50vh;
 }
